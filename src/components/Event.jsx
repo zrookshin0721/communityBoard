@@ -1,3 +1,5 @@
+import "./components/Event.css";
+
 const Event = (props) => {
   return (
     <div className={"Event " + props.color}>

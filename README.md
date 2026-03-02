@@ -10,8 +10,8 @@ Time spent: 4 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ x] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
-  - [x ] Header/title describing the theme is displayed
+- [x] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
+  - [x] Header/title describing the theme is displayed
 - [x ] **At least 10 unique events or resources are displayed in a responsive card format**
   - [ x] There are at least 10 cards displayed
   - [ x] The cards should be displayed in an organized format (ex. a grid, or in one line)
