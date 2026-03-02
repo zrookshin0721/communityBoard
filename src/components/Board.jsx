@@ -1,5 +1,5 @@
 import Event from "./Event.jsx";
-import "./components/Board.css";
+import "./Board.css";
 
 const Board = () => {
   return (
